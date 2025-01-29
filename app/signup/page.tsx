@@ -26,7 +26,7 @@ export default function Home() {
       }`}
     >
       <div>
-        <h1 className="text-8xl animate-bounce">sign in</h1>
+        <h1 className="text-8xl animate-bounce">sign up</h1>
 
         {/* Sign In Form */}
         <form className="mb-4">

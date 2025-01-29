@@ -62,7 +62,7 @@ export default function Home() {
             type="submit"
             className="w-full py-3 px-4 rounded-full bg-transparent border-2 border-white text-white hover:border-2 hover:border-transparent focus:outline-none focus:ring-2 focus:ring-white focus:border-transparent transition-all duration-200"
           >
-            sign up
+            sign in
           </button>
         </form>
 
